@@ -1,0 +1,21 @@
+D:\jewel\aaa\Salary Calculator\bin\Debug\Salary Calculator.exe.config
+D:\jewel\aaa\Salary Calculator\bin\Debug\Salary Calculator.exe
+D:\jewel\aaa\Salary Calculator\bin\Debug\Salary Calculator.pdb
+D:\jewel\aaa\Salary Calculator\obj\Debug\Salary Calculator.csprojResolveAssemblyReference.cache
+D:\jewel\aaa\Salary Calculator\obj\Debug\Salary_Calculator.Form1.resources
+D:\jewel\aaa\Salary Calculator\obj\Debug\Salary_Calculator.Properties.Resources.resources
+D:\jewel\aaa\Salary Calculator\obj\Debug\Salary Calculator.csproj.GenerateResource.Cache
+D:\jewel\aaa\Salary Calculator\obj\Debug\Salary Calculator.exe
+D:\jewel\aaa\Salary Calculator\obj\Debug\Salary Calculator.pdb
+F:\all apps\Jewel File\Salary Calculator\bin\Debug\Salary Calculator.exe.config
+F:\all apps\Jewel File\Salary Calculator\obj\Debug\Salary Calculator.exe
+F:\all apps\Jewel File\Salary Calculator\obj\Debug\Salary Calculator.pdb
+F:\all apps\Salary Calculator\bin\Debug\Salary Calculator.exe.config
+F:\all apps\Salary Calculator\obj\Debug\Salary Calculator.exe
+F:\all apps\Salary Calculator\obj\Debug\Salary Calculator.pdb
+F:\all apps\Salary Calculator\bin\Debug\Salary Calculator.exe
+F:\all apps\Salary Calculator\bin\Debug\Salary Calculator.pdb
+F:\all apps\Salary Calculator\obj\Debug\Salary Calculator.csprojResolveAssemblyReference.cache
+F:\all apps\Salary Calculator\obj\Debug\Salary_Calculator.Form1.resources
+F:\all apps\Salary Calculator\obj\Debug\Salary_Calculator.Properties.Resources.resources
+F:\all apps\Salary Calculator\obj\Debug\Salary Calculator.csproj.GenerateResource.Cache
